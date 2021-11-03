@@ -1,4 +1,4 @@
-# Halloween theme website
+# Halloween theme website 🎃
 A Halloween themed website made with HTML, CSS and Javascript.</br>
 This website is completely responsive and you can the best display in any platform!
 
